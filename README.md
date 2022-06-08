@@ -279,4 +279,4 @@ are you sure that you want to delete DataBase22 [Y/N]?: y
 - #### Amir HossamEldien
 - #### Abdulrahman Mostafa
 ## License
-[GNU](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
