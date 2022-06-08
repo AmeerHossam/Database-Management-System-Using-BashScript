@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #create directory calls Database to store all the created database
-myPath=/home/amir/Database
+#myPath="Enter The path you want to create the Databases in"
 if ! [[ -d $myPath ]]
 then
 	mkdir $myPath
