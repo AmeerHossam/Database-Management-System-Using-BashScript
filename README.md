@@ -277,4 +277,4 @@ are you sure that you want to delete DataBase22 [Y/N]?: y
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU](https://choosealicense.com/licenses/mit/)
