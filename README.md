@@ -270,8 +270,9 @@ are you sure that you want to delete DataBase22 [Y/N]?: y
 ```
 "The same concept of deleting table , we dropped it and checked it by entering "2" for list all databases created in my system.
 
+## Feel free to commit changes to the project , I would be appreciated
 
-## Donate with love 
+## Buy me a coffee 😂 ☕ 💋
 [![name](https://images.squarespace-cdn.com/content/v1/5f37730c8629cb7bcb427cf0/1643676960373-PJZ13HQF81SDHO5Y2XEQ/bmac.jpg)](https://www.buymeacoffee.com/amirhossam)
 
 
