@@ -271,7 +271,3 @@ are you sure that you want to delete DataBase22 [Y/N]?: y
 "The same concept of deleting table , we dropped it and checked it by entering "2" for list all databases created in my system.
 
 
-## Team
-- #### Amir HossamEldien
-- #### Abdulrahman Mostafa
-
